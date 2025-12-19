@@ -1,10 +1,10 @@
-/* Style the whole page */
+
 body {
     background-color: lightblue;
     font-family: Arial;
 }
 
-/* Center box */
+
 .box {
     background-color: white;
     width: 300px;
@@ -14,14 +14,12 @@ body {
     border-radius: 10px;
 }
 
-/* Input box */
 input {
     padding: 8px;
     width: 90%;
     margin-bottom: 10px;
 }
 
-/* Button */
 button {
     padding: 8px 15px;
     background-color: green;
